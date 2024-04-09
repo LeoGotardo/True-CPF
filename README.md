@@ -1,6 +1,3 @@
-Below is a README file structured in Markdown format for the Python project provided, which involves CPF (Cadastro de Pessoas Físicas) validation and generation using a graphical user interface built with `customtkinter`.
-
-```markdown
 # True CPF Application
 
 ## Introduction
