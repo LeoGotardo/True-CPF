@@ -84,4 +84,3 @@ Click on "Criar CPF" to generate a new CPF number. The generated CPF will be sho
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
-```
