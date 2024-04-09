@@ -29,7 +29,7 @@ To run the True CPF application, you need Python installed on your machine along
 1. Clone the repository or download the source code:
    ```bash
    git clone https://example.com/true-cpf-repo.git
-   cd true-cpf-repo
+   cd true-cpf
    ```
 
 2. Install required Python packages:
